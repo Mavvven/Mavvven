@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mavvven
 - 👀 I’m interested in web
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning react and vue
+- 😍 I like tailwindcss !!!
 
 <!---
 Mavvven/Mavvven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
