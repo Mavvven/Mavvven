@@ -1,6 +1,4 @@
 - 👋 Hi, I’m lolorn.
-- 👀 I’m interested in web.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning react.
-- 😍 I like tailwindcss !!!
 - 🐈‍⬛ I have a cat called Shineshine(闪闪).
-- 💞 My girlfriend LZH is my light!!!
