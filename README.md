@@ -1,4 +1,4 @@
-- 👋 Hi, I’m lolorn.
+- 👋 Hi, I’m rconster.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning react.
 - 🐈‍⬛ I have a cat called Shineshine(闪闪).
